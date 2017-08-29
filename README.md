@@ -1,20 +1,20 @@
-# Matrices
+# Matrices 1
 ## non-complex matrices
-This is a project including a Matrix extension class for **non-Complex Matrices** (2D arrays of doubles). It also includes gherkin feature file tests (NUnit test runner) with significant code coverage.  The program is just a demo. Extract the extension classes into your project to use the matrix tools.
+_This is a project including a Matrix extension class for **non-Complex Matrices** (2D arrays of doubles). It also includes gherkin feature file tests (NUnit test runner) with significant code coverage.  The program is just a demo. Extract the extension classes into your project to use the matrix tools._   
 
-Once you have declared a Matrix, M, where M =    
+_Once you have declared a Matrix, M, where M =_   
 | 3, 1 |   
 | 5, 2 |   
 
-like this...
-- var M = new double[2, 2];
--             M[0, 0] = 3;
--             M[0, 1] = 1;
--             M[1, 0] = 5;
--             M[1, 1] = 2;
+_like this..._  
+var M = new double[2, 2];   
+            M[0, 0] = 3;   
+            M[0, 1] = 1;   
+            M[1, 0] = 5;   
+            M[1, 1] = 2;   
 
 
-Then you can perform sophisticated matrix operations.
+_Then you can perform sophisticated matrix operations._
 
 - Add to another matrix
 - Subtract from a matrix
@@ -22,12 +22,12 @@ Then you can perform sophisticated matrix operations.
 - Multiply by a matrix
 - Raise to powers
 - Calculate Square roots
-- Calculate determinant matrix
-- Calculate Transpose matrix
-- Calculate Adjunct matrix
-- Calculate Cofactor matrix
-- Calculate Inverse matrix
-- Rotation matrix 
+- Calculate a determinant 
+- Calculate a Transpose matrix
+- Calculate an Adjunct matrix
+- Calculate a Cofactor matrix
+- Calculate an Inverse matrix
+- Calculate a Rotation matrix 
 - Calculate Eigen values
 - Calculate Eigen vectors
 - **Calculate simultaneous equations**
