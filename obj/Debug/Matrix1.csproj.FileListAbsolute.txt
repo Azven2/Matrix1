@@ -1,0 +1,13 @@
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\Matrix1.exe.config
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\Matrix1.exe
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\Matrix1.pdb
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\ImpromptuInterface.dll
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\nunit.framework.dll
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\SpecFlow.Assist.Dynamic.dll
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\TechTalk.SpecFlow.dll
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\ImpromptuInterface.xml
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\nunit.framework.xml
+C:\blog.code\Matices (part 1)\C#\Matrix1\obj\Debug\Matrix1.exe
+C:\blog.code\Matices (part 1)\C#\Matrix1\obj\Debug\Matrix1.pdb
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\Newtonsoft.Json.dll
+C:\blog.code\Matices (part 1)\C#\Matrix1\bin\Debug\Newtonsoft.Json.xml
